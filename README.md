@@ -1,3 +1,3 @@
 # hello-world
-# My first project on Python
-print("Hello world")
+This repository was created to study Python automation and GIT
+
