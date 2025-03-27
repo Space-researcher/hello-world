@@ -1,1 +1,5 @@
+Useful links
+
+Software testing 
+Lesson 8.4 git commit, git reset, git checkout, git stash
 https://stepik.org/lesson/1036772/step/6?unit=1045257
