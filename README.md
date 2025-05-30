@@ -1,3 +1,3 @@
 # hello-world
-Here I'm studying Python automation.
+Here are my experiments with automation in Python.
 
